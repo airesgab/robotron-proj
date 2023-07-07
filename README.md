@@ -5,6 +5,6 @@ Robotron is a simple project focused in learning Document Object Model using mos
  - CSS
  - JavaScript
  
-<center><img src="./robotron.gif" alt="pokedex video"></center>
+<center><img src="./robotron.gif" alt="robotron"></center>
 
 Enjoy!
